@@ -1,5 +1,4 @@
 // RTOS Framework - Fall 2024
-// J Losh
 
 // Student Name:Jay Bhatt
 // ID number 1002173351
