@@ -1,5 +1,4 @@
 // Shell functions
-// J Losh
 
 //-----------------------------------------------------------------------------
 // Hardware Target
@@ -38,9 +37,6 @@
 
 PSInfo psInfo;
 
-
-
-// REQUIRED: Add header files here for your strings functions, ...
 
 //-----------------------------------------------------------------------------
 // Subroutines
@@ -103,7 +99,6 @@ void Reboot(void)
 }
 
 
-// REQUIRED: add processing for the shell commands through the UART here
 void shell(void)
 {
     USER_DATA data;
