@@ -1,5 +1,4 @@
 // Tasks
-// J Losh
 
 //-----------------------------------------------------------------------------
 // Hardware Target
@@ -44,7 +43,7 @@ uint32_t start_time,end_time;
 //-----------------------------------------------------------------------------
 
 // Initialize Hardware
-// REQUIRED: Add initialization for blue, orange, red, green, and yellow LEDs
+// initialization for blue, orange, red, green, and yellow LEDs
 //           Add initialization for 6 pushbuttons
 void initHw(void)
 {
